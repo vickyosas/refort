@@ -1,0 +1,40 @@
+                     <!-- #project-## -->
+                    <div class="project-wrapper col-sm-6 col-xs-12 col-md-3 portfolio_category-construction ">
+                        <div class="project-inner">
+                            <div class="project-thumbnail">
+                                <img width="350" height="420" src="assets/images/R/IMG_20190424_133332_7.jpg" alt="" />
+                                <a href="#" class="pro-link"><span class="mf-portfolio-icon"><i class="flaticon-multimedia"></i></span></a>
+                            </div>
+                            <div class="project-summary">
+                                <h2 class="project-title"><a href="#">Cabrrus Training</a></h2>
+                                <a class="cat-portfolio" href="#">Construction</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- #project-## -->
+                    <div class="project-wrapper col-sm-6 col-xs-12 col-md-3 portfolio_category-mechanical ">
+                        <div class="project-inner">
+                            <div class="project-thumbnail">
+                                <img width="350" height="420" src="assets/images/R/IMG_20190425_135953_9.jpg" alt="" />
+                                <a href="#" class="pro-link"><span class="mf-portfolio-icon"><i class="flaticon-multimedia"></i></span></a>
+                            </div>
+                            <div class="project-summary">
+                                <h2 class="project-title"><a href="#">Pipeline Project</a></h2>
+                                <a class="cat-portfolio" href="#">Mechanical</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- #project-## -->
+                    <div class="project-wrapper col-sm-6 col-xs-12 col-md-3 portfolio_category-materials ">
+                        <div class="project-inner">
+                            <div class="project-thumbnail">
+                                <img width="350" height="420" src="assets/images/R/IMG_20190424_145335_8.jpg" alt="" />
+                                <a href="#" class="pro-link"><span class="mf-portfolio-icon"><i class="flaticon-multimedia"></i></span></a>
+                            </div>
+                            <div class="project-summary">
+                                <h2 class="project-title"><a href="#">Technologies</a></h2>
+                                <a class="cat-portfolio" href="#">Materials</a>
+                            </div>
+                        </div>
+                    </div>
+                    <!-- #project-## -->
